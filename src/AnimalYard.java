@@ -9,6 +9,7 @@ public class AnimalYard {
         animalSetInTheYard[2]= new Cat();
         animalSetInTheYard[3]= new Cow();
         animalSetInTheYard[4]= new Cow();
+        animalSetInTheYard[5]= new Rat();
 
     }
 
